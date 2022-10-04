@@ -36,6 +36,10 @@ This website was designed to help freelancers find jobs that they can work on. I
 - Providing an opportunity for students to work as freelancers and gain experience of working on a real time project.
 - Building a recommendation system to help businesses find freelancers who exactly match their skill set requirements.
 
+#### Link to the Application
+
+https://developehub.netlify.app/
+
 #### Technology stack
 
 - FrontEnd - React.Js
